@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-family: Georgia, serif;;
+
+}
+.carousel-item{
+    width: 80%;
+    height: 80vh;
+}
+.card-body{
+    min-width:50%;
+    max-height: 200px;
+}
+.container-fluid a{
+    display: flex;
+    align-content: flex-end;
+    font-size: 30px;
+}
+
+.img2 {
+    display: flex;
+    justify-content: center;
+}
+.about22{
+display: flex;
+    justify-content:flex-end;
+}
+.our-team{
+    display: flex;
+    flex-wrap:wrap;
+    flex-grow: 1;
+}
+.services{
+    display: flex;
+    flex-wrap: wrap;
+        flex-grow: 1;
+        justify-content: space-evenly;
+}
+.last-img{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    
+}
+
+
+
